@@ -1,6 +1,6 @@
-# ExHnt2
+# 汉诺塔
 
-**TODO: Add description**
+**游戏规则推导**
 
 ## Installation
 
